@@ -1,0 +1,57 @@
+html {
+  margin-top: 2%;
+  margin-left: 7%;
+  margin-right: 7%;
+  background-color: #F2F2F2;
+}
+
+
+.soustitre {
+  margin-top: 7%;
+}
+
+.colonnes2  {
+  margin-top: 8%;
+  columns: 25em;
+  column-gap: 5%;
+}
+
+.exerge {
+  margin-top: 8%;
+}
+
+.pcentre {
+  width: 75%;
+  margin-left: 22%;
+  margin-right: 22%;
+  margin-top: 8%;
+}
+
+.pdécalé {
+  margin-left: 10%;
+  margin-top: 8%;
+}
+
+.aligndroit {
+  text-align: right;
+  margin-right: 52%;
+}
+
+.pcaligngauche {
+  margin-left: 52%;
+  margin-top: -17%;
+}
+
+.pcaligngauche2 {
+  margin-left: 52%;
+  margin-top: -30%;
+}
+
+.pcaligngauche3 {
+  margin-left: 52%;
+  margin-top: -50%;
+}
+
+.paligngauche50 {
+  width: 50%;
+}

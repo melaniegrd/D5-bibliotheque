@@ -1,0 +1,163 @@
+@font-face {
+  font-family: "At Apoc";
+  src: url("/fonts/Apoc/woff/Apoc.woff") format("woff"),
+       url("/fonts/Apoc/svg/Apoc.svg") format("svg"),
+       url("/fonts/Apoc/ttf/Apoc.ttf") format("truetype");
+       font-weight: normal;
+}
+
+@font-face {
+  font-family: "At Apoc";
+  src: url("/fonts/Apoc/woff/Apoc-Italic.woff") format("woff"),
+       url("/fonts/Apoc/svg/Apoc-Italic.svg") format("svg"),
+       url("/fonts/Apoc/ttf/Apoc-Italic.ttf") format("truetype");
+       font-style: italic;
+}
+
+@font-face {
+    font-family: "At Apoc";
+    src: url("/fonts/Apoc/woff/Apoc-Dark.woff") format("woff"),
+         url("/fonts/Apoc/svg/Apoc-Dark.svg") format("svg"),
+         url("/fonts/Apoc/ttf/Apoc-Dark.ttf") format("truetype");
+    font-weight: bold;
+}
+
+@font-face {
+    font-family: "At Apoc";
+    src: url("/fonts/Apoc/woff/Apoc-Dark-Italic.woff") format("woff"),
+         url("/fonts/Apoc/svg/Apoc-Dark-Italic.svg") format("svg"),
+         url("/fonts/Apoc/ttf/Apoc-Dark-Italic.ttf") format("truetype");
+    font-weight: bold;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: "At Apoc";
+    src: url("/fonts/Apoc/woff/Apoc-Light.woff") format("woff"),
+         url("/fonts/Apoc/svg/Apoc-Light.svg") format("svg"),
+         url("/fonts/Apoc/ttf/Apoc-Light.ttf") format("truetype");
+    font-weight: lighter;
+}
+
+@font-face {
+    font-family: "At Apoc";
+    src: url("/fonts/Apoc/woff/Apoc-Light-Italic.woff") format("woff"),
+         url("/fonts/Apoc/svg/Apoc-Light-Italic.svg") format("svg"),
+         url("/fonts/Apoc/ttf/Apoc-Light-Italic.ttf") format("truetype");
+    font-weight: lighter;
+    font-style: italic;
+}
+
+@font-face {
+  font-family: "Lausanne";
+  src: url("/fonts/Lausanne/woff/Lausanne-300.woff") format("woff"),
+       url("/fonts/Lausanne/svg/Lausanne-300.svg") format("svg"),
+       url("/fonts/Lausanne/ttf/Lausanne-300.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Lausanne";
+  src: url("/fonts/Lausanne/woff/Lausanne-300italic.woff") format("woff"),
+       url("/fonts/Lausanne/svg/Lausanne-300italic.svg") format("svg"),
+       url("/fonts/Lausanne/ttf/Lausanne-300italic.ttf") format("ttf");
+  font-style: italic;
+
+}
+
+@font-face {
+  font-family: "SangBleu Kingdom";
+  src: url("/fonts/SangBleu/woff/SangBleuKingdom-Regular.woff") format("woff"),
+       url("/fonts/SangBleu/svg/SangBleuKingdom-Regular.svg") format("svg"),
+       url("/fonts/SangBleu/ttf/SangBleuKingdom-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "SangBleu Kingdom";
+  src: url("/fonts/SangBleu/woff/SangBleuKingdom-Italic.woff") format("woff"),
+       url("/fonts/SangBleu/svg/SangBleuKingdom-Italic.svg") format("svg"),
+       url("/fonts/SangBleu/ttf/SangBleuKingdom-Italic.ttf") format("truetype");
+       font-style: italic;
+}
+
+body {
+  font-family: "Lausanne";
+  line-height: 150%;
+  color: #000033;
+}
+
+h1  {
+  font-family: "At Apoc";
+  font-size: 7.9vw;
+  text-transform: uppercase;
+  line-height: 125%;
+  margin-top: 3%;
+}
+
+.h1moyen {
+  font-size: 5vw;
+  line-height: 300%;
+}
+
+h2 {
+  font-family: "At Apoc";
+  font-size: 4.5vw;
+  line-height: normal;
+}
+
+h3 {
+  font-family: "At Apoc";
+  font-size: 4.5vw;
+  text-transform: uppercase;
+  line-height: 250%;
+}
+
+.h3text {
+  line-height: 140%;
+}
+
+h4 {
+  font-family: "At Apoc";
+  font-size: 3vw;
+  text-transform: uppercase;
+  line-height: 300%;
+}
+
+
+h5 {
+  font-family: "At Apoc";
+  font-size: 2vw;
+  text-transform: uppercase;
+  line-height: 300%;
+}
+
+h6 {
+    font-family: "At Apoc";
+    font-size: 7.9vw;
+    text-transform: uppercase;
+    line-height: 120%;
+}
+
+.italic {
+  font-style: italic;
+}
+
+.lowcase {
+  text-transform: none;
+}
+
+.lowcaseitalic {
+  font-style: italic;
+  line-height: 120%;
+  text-transform: none;
+}
+
+.SangBleu{
+  font-family: "SangBleu Kingdom";
+  font-size: 2vw;
+  line-height: 130%;
+}
+
+.SangBleuPetit{
+  font-family: "SangBleu Kingdom";
+  font-size: 120%;
+}
