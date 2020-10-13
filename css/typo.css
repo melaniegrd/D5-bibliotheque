@@ -113,6 +113,14 @@ h3 {
 
 .h3text {
   line-height: 140%;
+  margin-top: 10%;
+}
+
+.h3topmargin{
+  line-height: 140%;
+  margin-top: 10%;
+  margin-left: 15%;
+
 }
 
 h4 {
@@ -130,11 +138,20 @@ h5 {
   line-height: 300%;
 }
 
+.line150 {
+  font-family: "At Apoc";
+  font-size: 2vw;
+  text-transform: uppercase;
+  line-height: 150%;
+  font-style: italic;
+}
+
 h6 {
     font-family: "At Apoc";
     font-size: 7.9vw;
     text-transform: uppercase;
     line-height: 120%;
+    margin-top: 20%;
 }
 
 .italic {
@@ -143,6 +160,7 @@ h6 {
 
 .lowcase {
   text-transform: none;
+  line-height: 120%;
 }
 
 .lowcaseitalic {
@@ -151,13 +169,15 @@ h6 {
   text-transform: none;
 }
 
+
 .SangBleu{
   font-family: "SangBleu Kingdom";
+  line-height: 160%;
   font-size: 2vw;
-  line-height: 130%;
 }
 
 .SangBleuPetit{
   font-family: "SangBleu Kingdom";
   font-size: 120%;
+  line-height: 160%;
 }

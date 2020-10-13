@@ -1,10 +1,24 @@
 html {
   margin-top: 2%;
+  margin-bottom: 8%;
   margin-left: 7%;
   margin-right: 7%;
   background-color: #F2F2F2;
 }
 
+body{
+
+}
+
+footer {
+  position: fixed;
+  height: 10%;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  background-color: #F2F2F2;
+  text-align: center;
+}
 
 .soustitre {
   margin-top: 7%;
@@ -12,7 +26,7 @@ html {
 
 .colonnes2  {
   margin-top: 8%;
-  columns: 25em;
+  columns: 26em;
   column-gap: 5%;
 }
 
@@ -21,10 +35,9 @@ html {
 }
 
 .pcentre {
-  width: 75%;
   margin-left: 22%;
   margin-right: 22%;
-  margin-top: 8%;
+  margin-top: 5%;
 }
 
 .pdécalé {
@@ -32,14 +45,34 @@ html {
   margin-top: 8%;
 }
 
+.margintop10{
+  margin-top: 10%;
+}
+
+.margintop5{
+  margin-top: 5%;
+}
+
+.margintop2pdécalé{
+  margin-top: 2%;
+  margin-left: 22%;
+}
+
 .aligndroit {
   text-align: right;
   margin-right: 52%;
 }
 
+
+.aligndroittop10{
+  text-align: right;
+  margin-right: 52%;
+  margin-top: 10%;
+}
+
 .pcaligngauche {
   margin-left: 52%;
-  margin-top: -17%;
+  margin-top: -24%;
 }
 
 .pcaligngauche2 {
@@ -49,9 +82,16 @@ html {
 
 .pcaligngauche3 {
   margin-left: 52%;
-  margin-top: -50%;
+  margin-top: -55%;
 }
 
 .paligngauche50 {
   width: 50%;
+  margin-top: 5%;
+}
+
+.fit-picture {
+  margin-left: auto;
+  margin-right: auto;
+  width: 6%;
 }
