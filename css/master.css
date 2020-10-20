@@ -20,6 +20,20 @@ footer {
   text-align: center;
 }
 
+header {
+  position: fixed;
+  height: 10%;
+  left: 0;
+  top: 0;
+  width: 100%;
+  background-color: #F2F2F2;
+  text-align: center;
+}
+
+
+.titre {
+}
+
 .soustitre {
   margin-top: 7%;
 }
@@ -94,4 +108,17 @@ footer {
   margin-left: auto;
   margin-right: auto;
   width: 6%;
+}
+
+.livre {
+  width: 2.3%;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+
+.livreouvert {
+  width: 4%;
+  margin-left: auto;
+  margin-right: auto;
 }
