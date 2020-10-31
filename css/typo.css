@@ -106,9 +106,9 @@ h2 {
 
 h3 {
   font-family: "At Apoc";
-  font-size: 4.5vw;
+  font-size: 320%;
   text-transform: uppercase;
-  line-height: 250%;
+  line-height: 150%;
 }
 
 .h3text {
@@ -125,7 +125,7 @@ h3 {
 
 h4 {
   font-family: "At Apoc";
-  font-size: 3vw;
+  font-size: 220%;
   text-transform: uppercase;
   line-height: 300%;
 }
@@ -133,14 +133,14 @@ h4 {
 
 h5 {
   font-family: "At Apoc";
-  font-size: 2vw;
+  font-size: 150%;
   text-transform: uppercase;
   line-height: 300%;
 }
 
 .line150 {
   font-family: "At Apoc";
-  font-size: 2vw;
+  font-size: 220%;
   text-transform: uppercase;
   line-height: 150%;
   font-style: italic;
@@ -173,7 +173,7 @@ h6 {
 .SangBleu{
   font-family: "SangBleu Kingdom";
   line-height: 160%;
-  font-size: 2vw;
+  font-size: 150%;
 }
 
 .SangBleuPetit{
